@@ -1,5 +1,4 @@
 import { Directive, ElementRef, OnInit } from '@angular/core';
-import { element } from 'protractor';
 
 @Directive({
     selector: '[appBasicHightlight]'
